@@ -1,0 +1,8 @@
+bls wagon 1
+bls wagon 2
+bls wagon 3
+sbb lok 1
+sbb lok 2
+sbb lok 3
+sbb wagon 1
+sbb wagon 2
